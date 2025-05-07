@@ -1,0 +1,6 @@
+{
+    "theme": "light",
+    "view": "card_view",
+    "sort_by": "due_date",
+    "categories": ["Personal", "Work", "Shopping", "Health", "Other"]
+} 

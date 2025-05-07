@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "sfsdfsdd",
+        "description": "sfsfsdfd 3242234",
+        "due_date": "2025-05-06",
+        "priority": "Low",
+        "category": "Personal",
+        "completed": true,
+        "created_at": "2025-05-06 13:36:07",
+        "completed_at": "2025-05-06 13:36:30"
+    },
+    {
+        "id": 2,
+        "title": "Implementation of DBSCAN Clustering Algorithm",
+        "description": "Apply DBSCAN on a customer segmentation dataset\nVary \u03b5 from 0.5 to 2.5 (steps of 0.5) and MinPts from 3 to 10\nThe effect of changing \u03b5 and MinPts parameters\nComparison between DBSCAN and K-Means results\nChallenges faced during implementation",
+        "due_date": "2025-08-06",
+        "priority": "High",
+        "category": "Personal",
+        "completed": true,
+        "created_at": "2025-05-06 13:44:39",
+        "completed_at": "2025-05-06 13:44:57"
+    },
+    {
+        "id": 3,
+        "title": "\nCache Memory Simulator",
+        "description": "Modern CPUs rely heavily on multilevel cache hierarchies to bridge the speed gap between fast processors and slower main memory. Cache design decisions\u2014 such as block size, associativity, and replacement policy\u2014 have profound effects on overall system performance.\n",
+        "due_date": "2025-05-06",
+        "priority": "Medium",
+        "category": "Work",
+        "completed": true,
+        "created_at": "2025-05-06 22:52:22",
+        "completed_at": "2025-05-06 22:52:47"
+    }
+]
